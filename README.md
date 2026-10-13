@@ -1,5 +1,9 @@
 # Welcome to your Lovable project
 
+## About Meliconsig
+
+Meliconsig is a single-page landing site about CLT payroll-deductible credit. Its simulator runs entirely in the browser: every rate it uses is an illustrative assumption, and no personal data is collected or sent anywhere.
+
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
